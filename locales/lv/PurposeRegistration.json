@@ -1,0 +1,8 @@
+{
+  "Purpose Title": "Produkta nosaukums",
+  "Purpose Description": "Produkta apraksts",
+  "Purpose title is a required field": "Produkta nosaukums ir obligāts lauks.",
+  "Purpose title too short": "Produkta nosaukumam jābūt vismaz 3 rakstzīmēm.",
+  "Purpose title too long": "Produkta nosaukumam jābūt ne vairāk kā 70 rakstzīmēm.",
+  "Submit": "Pievienot"
+}

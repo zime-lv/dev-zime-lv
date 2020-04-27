@@ -1,10 +1,21 @@
 {
   "Sign Up": "Reģistrēties",
   "First name": "Vārds",
+  "Enter first name": "Ievadi vārdu",
+  "First name is required": "Vārds nav ievadīts.",
   "Last name": "Uzvārds",
+  "Enter last name": "Ievadi uzvārdu",
+  "Last name is required": "Uzvārds nav ievadīts.",
   "Email address": "Epasta adrese",
+  "Email is required": "Epasts nav ievadīts.",
+  "Invalid email address": "E-pasta adresei jābūt derīgai.",
   "Enter email": "Ievadi epastu",
   "Password": "Parole",
+  "New password": "Jauna parole",
   "Enter password": "Ievadi paroli",
-  "Already registered": "Jau reģistrēts <1>ienākt</1>?"
+  "Submit": "Nosūtīt",
+  "No password provided": "Parole nav ievadīta.",
+  "Password is too short": "Parole ir par īsu - tai jābūt vismaz 8 rakstzīmēm.",
+  "Password is too weak": "Jāietver vismaz 8 rakstzīmes, viens lielais burts, viens mazais burts, viens cipars un viena īpašā rakstzīme.",
+  "Already registered": "Jau reģistrējies <1>ienākt</1>?"
 }

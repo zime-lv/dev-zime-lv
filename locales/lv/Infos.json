@@ -1,0 +1,8 @@
+{
+  "TRANSFER_SUCCESS": "Pārskaitījums veiksmīgs",
+  "REGISTER_BUSINESS_SUCCESS": "Uzņēmums veiksmīgi reģistrēts",
+  "REGISTER_PURPOSE_SUCCESS": "Produkts veiksmīgi pievienots",
+  "REGISTER_SHAREHOLDER_SUCCESS": "Akcionārs veiksmīgi pievienots",
+  "REGISTER_CURRENCY_SUCCESS": "Valūta veiksmīgi pievienota",
+  "PASSWORD_CHANGE_SUCCESS": "Parole veiksmīgi nomainīta"
+}

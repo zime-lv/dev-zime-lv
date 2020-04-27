@@ -1,0 +1,21 @@
+{
+  "Open account": "Open account",
+  "Photo ID": "Photo ID",
+  "Photo ID requirements": "The photo must meet the requirements for Photo ID.",
+  "Click to select the image file": "Drag 'n' drop the photo here, or click to select the image file",
+  "Photo ID is required": "Photo ID is a required field",
+  "Country": "Country",
+  "Personal ID": "Personal ID number",
+  "XXXXXX-XXXXX": "XXXXXX-XXXXX",
+  "Personal ID is required": "Personal ID number is a required field.",
+  "Wrong Personal ID format": "The personal ID consists of numbers and hyphens (-). Format: XXXXXX‑XXXXX",
+  "PersonalID must be valid": "Personal ID must be valid",
+  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
+  "Agree to terms and conditions": "Agree to terms and conditions",
+  "Terms is required": "To open account you must agree to terms and conditions.",
+  "Submit": "Submit",
+  "Account successfully registered": "Account successfully registered",
+  "Account with your personal ID successfully registered": "Account with the personal ID <1>{{accountNumber}}</1> is successfully registered.",
+  "Account already registered": "Account already registered",
+  "Only one account per person is allowed": "Account with the personal ID <1>{{accountNumber}}</1> is already registered. Only one account per person is allowed."
+}

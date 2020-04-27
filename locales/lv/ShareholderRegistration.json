@@ -1,0 +1,18 @@
+{
+  "Shareholder Personal ID": "Akcionāra personas kods",
+  "XXXXXX-XXXXX": "XXXXXX-XXXXX",
+  "Personal ID is required": "Jāievada personas kods.",
+  "Wrong Personal ID format": "Personas kods sastāv no cipariem un defises (‑). Formāts: XXXXXX‑XXXXX",
+  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
+  "Shareholder Roles": "Akcionāra lomas, atdalītas ar komatu",
+  "Shares is required": "Akcijas ir obligāts lauks.",
+  "Shares too few": "Akciju skaitam jābūt lielākām vai vienādam ar 0.",
+  "Shares too many": "Akciju skaitam jābūt mazākam vai vienādam ar 1000.",
+  "Shares must be a number": "Akcijām jābūt skaitlim.",
+  "Shares": "Akciju skaits",
+  "Submit": "Pievienot akcionāru",
+  "Account successfully registered": "Konts veiksmīgi reģistrēts",
+  "Account with your personal ID successfully registered": "Konts ar personas kodu <1>{{accountNumber}}</1> ir veiksmīgi reģistrēts.",
+  "Account already registered": "Konts jau ir reģistrēts",
+  "Only one account per person is allowed": "Konts ar personas kodu <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts."
+}

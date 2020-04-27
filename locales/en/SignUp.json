@@ -1,10 +1,21 @@
 {
   "Sign Up": "Sign Up",
   "First name": "First name",
+  "Enter first name": "Enter first name",
+  "First name is required": "First name is required",
   "Last name": "Last name",
+  "Enter last name": "Enter last name",
+  "Last name is required": "Last name is required.",
   "Email address": "Email address",
+  "Email is required": "Email is required.",
+  "Invalid email address": "Invalid email address.",
   "Enter email": "Enter email",
   "Password": "Password",
+  "New password": "New password",
   "Enter password": "Enter password",
+  "Submit": "Submit",
+  "No password provided": "No password provided.",
+  "Password is too short": "Password is too short - should be 8 chars minimum.",
+  "Password is too weak": "Must Contain at least 8 Characters, One Uppercase, One Lowercase, One Number and one special case Character.",
   "Already registered": "Already registered <1>sign in</1>?"
 }

@@ -1,0 +1,8 @@
+{
+  "TRANSFER_SUCCESS": "Transfer successful",
+  "REGISTER_BUSINESS_SUCCESS": "Business successfully registered",
+  "REGISTER_PURPOSE_SUCCESS": "Product successfully added",
+  "REGISTER_SHAREHOLDER_SUCCESS": "Shareholder successfully added",
+  "REGISTER_CURRENCY_SUCCESS": "Currency successfully added",
+  "PASSWORD_CHANGE_SUCCESS": "Password successfully changed"
+}

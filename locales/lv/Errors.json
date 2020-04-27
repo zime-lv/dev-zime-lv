@@ -1,0 +1,10 @@
+{
+  "INVALID_SIGN_IN": "Nepareiza epasta adrese vai parole.",
+  "INVALID_TRANSFER": "Pārskaitījums nevarēja tikt izpildīts.",
+  "INVALID_USER_REGISTRATION": "Konts ar šo epasta adresi jau ir reģistrēts.",
+  "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
+  "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo personas kodu jau ir reģistrēts.",
+  "USER_NOT_FOUND": "Lietotājs nav atrasts.",
+  "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
+  "ACCOUNT_DELETED": "Konts tika izdzēsts"
+}
