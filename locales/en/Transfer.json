@@ -1,5 +1,9 @@
 {
   "Transfer": "Transfer",
+  "Transfer to account": "Transfer to account",
+  "U2S": "Own",
+  "U2U": "Other",
+  "U2B": "Purchase",
   "From account": "From account",
   "To account": "To account",
   "To Personal ID": "Recipients Personal ID",

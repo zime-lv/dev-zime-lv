@@ -1,5 +1,9 @@
 {
   "Transfer": "Pārskaitījums",
+  "Transfer to account": "Pārskaitījums uz kontu",
+  "U2S": "Savu",
+  "U2U": "Citu",
+  "U2B": "Pirkums",
   "From account": "No konta",
   "To account": "Uz kontu",
   "To Personal ID": "Saņēmēja personas kods",
