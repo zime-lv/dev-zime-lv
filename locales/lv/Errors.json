@@ -6,5 +6,6 @@
   "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo personas kodu jau ir reģistrēts.",
   "USER_NOT_FOUND": "Lietotājs nav atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
-  "ACCOUNT_DELETED": "Konts tika izdzēsts"
+  "ACCOUNT_DELETED": "Konts tika izdzēsts",
+  "REQUEST_EXPIRED": "Savienojuma kļūda. Lūdzu, atkārtoti ielādē lapu un mēģini vēlreiz."
 }

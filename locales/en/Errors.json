@@ -6,5 +6,6 @@
   "DUPLICATE_ACCOUNT_REGISTRATION": "An account with this personal ID address is already registered.",
   "USER_NOT_FOUND": "User not found.",
   "ACCOUNT_SUSPENDED": "Account is suspended",
-  "ACCOUNT_DELETED": "Account is deleted"
+  "ACCOUNT_DELETED": "Account is deleted",
+  "REQUEST_EXPIRED": "Connection error. Please reload the page and try again."
 }
