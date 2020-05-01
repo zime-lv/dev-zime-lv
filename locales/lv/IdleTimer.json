@@ -1,4 +1,10 @@
 {
-  "minutes": "min.",
-  "You will be automatically logged out": "Pēc {{currTime}} minūtēm Tava sesija automātiski beigsies."
+  "minutes": "{{currTime}} minūtes",
+  "seconds": "{{currTime}} sekundes",
+  "min": "{{currTime}}m",
+  "sec": "{{currTime}}s",
+  "Minutes to automatical log out": "Pēc {{currTime}} minūtēm Tava sesija automātiski beigsies.",
+  "Seconds to automatical log out": "Pēc {{currTime}} sekundēm Tava sesija automātiski beigsies.",
+  "Automatic logout": "<0>Automātiskas sesijas beigas pēc</0><1>{{timeFormatted}}</1><2>Vai vēlies turpināt sesiju?</2>",
+  "Continue now": "Tagad turpināt"
 }

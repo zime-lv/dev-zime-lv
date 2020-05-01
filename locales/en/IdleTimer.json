@@ -1,4 +1,10 @@
 {
-  "minutes": "min.",
-  "You will be automatically logged out": "You will be automatically logged out in {{currTime}} minutes."
+  "minutes": "{{currTime}} minutes",
+  "seconds": "{{currTime}} seconds",
+  "min": "{{currTime}}m",
+  "sec": "{{currTime}}s",
+  "Minutes to automatical log out": "You will be automatically logged out in {{currTime}} minutes.",
+  "Seconds to automatical log out": "You will be automatically logged out in {{currTime}} seconds.",
+  "Automatic logout": "<0>Automatic logout in</0><1>{{timeFormatted}}</1><2>Do you want to continue the session?</2>",
+  "Continue now": "Continue now"
 }
