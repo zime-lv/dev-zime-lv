@@ -4,7 +4,7 @@
   "INVALID_USER_REGISTRATION": "Konts ar šo epasta adresi jau ir reģistrēts.",
   "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo personas kodu jau ir reģistrēts.",
-  "USER_NOT_FOUND": "Lietotājs nav atrasts.",
+  "USER_NOT_FOUND": "Lietotājs netika atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
   "ACCOUNT_DELETED": "Konts tika izdzēsts",
   "REQUEST_EXPIRED": "Savienojuma kļūda. Lūdzu, atkārtoti ielādē lapu un mēģini vēlreiz."
