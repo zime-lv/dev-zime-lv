@@ -11,11 +11,14 @@
   "Wrong Personal ID format": "Personas kods sastāv no cipariem un defises (‑). Formāts: XXXXXX‑XXXXX",
   "PersonalID must be valid": "Personas kodam ir jābūt derīgam",
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
-  "Agree to terms and conditions": "Piekrītu lietošanas noteikumiem",
+  "Agree to terms and conditions": "Atzīmējot rūtiņu un noklikšķinot uz pogas, es piekrītu šādiem noteikumiem:",
   "Terms is required": "Lai atvērtu kontu, japiekrīt lietošanas noteikumiem.",
-  "Submit": "Nosūtīt",
+  "Submit": "Izveidot kontu un turpināt",
   "Account successfully registered": "Konts veiksmīgi reģistrēts",
   "Account with your personal ID successfully registered": "Konts ar personas kodu <1>{{accountNumber}}</1> ir veiksmīgi reģistrēts.",
   "Account already registered": "Konts jau ir reģistrēts",
-  "Only one account per person is allowed": "Konts ar personas kodu <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts."
+  "Only one account per person is allowed": "Konts ar personas kodu <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts.",
+  "The User Agreement and the Privacy Policy": "<0/> <1>Lietošanas noteikumiem</1> un <2/> <3/> <4>Privātuma noteikumiem</4>.",
+  "User Agreement": "Lietošanas noteikumi",
+  "Privacy Policy": "Privātuma noteikumi"
 }
