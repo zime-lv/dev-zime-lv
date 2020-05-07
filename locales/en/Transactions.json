@@ -1,5 +1,9 @@
 {
   "No transactions": "No transactions",
   "shares": "shares",
-  "Daily allowance": "Daily allowance"
+  "Daily allowance": "Daily allowance",
+  "acc_curr": "savings account",
+  "acc_cred": "credit account",
+  "acc_save": "savings account",
+  "fromAccountToAccount": "From {{t_from_account}} to {{t_to_account}}"
 }

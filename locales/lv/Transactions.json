@@ -1,5 +1,9 @@
 {
   "No transactions": "Nav pārskaitījumu",
   "shares": "akcijas",
-  "Daily allowance": "Dienas nauda"
+  "Daily allowance": "Dienas nauda",
+  "acc_curr": "norēķinu konts",
+  "acc_cred": "kredīta konts",
+  "acc_save": "krājkonts",
+  "fromAccountToAccount": "{{t_from_account}} <2/> {{t_to_account}}"
 }
