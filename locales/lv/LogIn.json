@@ -1,7 +1,7 @@
 {
   "Sign In": "Ienākt",
-  "Email address": "Epasta adrese",
-  "Enter email": "Ievadi epastu",
+  "Email address": "E-pasta adrese",
+  "Enter email": "Ievadi e-pastu",
   "Password": "Parole",
   "Enter password": "Ievadi paroli",
   "Remember me": "Atceries mani",
@@ -9,7 +9,7 @@
   "Forgot password": "Aizmirsi <1>paroli</1>?",
   "Not yet registered": "Vēl neesi <1>reģistrējies</1>?",
   "Login": "Ienāc",
-  "Email is required": "Epasts nav ievadīts.",
+  "Email is required": "E-pasts nav ievadīts.",
   "Invalid email address": "E-pasta adresei jābūt derīgai.",
   "No password provided": "Parole nav ievadīta."
 }

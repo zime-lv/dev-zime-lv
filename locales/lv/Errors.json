@@ -1,7 +1,7 @@
 {
-  "INVALID_SIGN_IN": "Nepareiza epasta adrese vai parole.",
+  "INVALID_SIGN_IN": "Nepareiza e-pasta adrese vai parole.",
   "INVALID_TRANSFER": "Pārskaitījums nevarēja tikt izpildīts.",
-  "INVALID_USER_REGISTRATION": "Konts ar šo epasta adresi jau ir reģistrēts.",
+  "INVALID_USER_REGISTRATION": "Konts ar šo e-pasta adresi jau ir reģistrēts.",
   "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo personas kodu jau ir reģistrēts.",
   "USER_NOT_FOUND": "Lietotājs netika atrasts.",

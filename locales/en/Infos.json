@@ -4,5 +4,6 @@
   "REGISTER_PURPOSE_SUCCESS": "Product successfully added",
   "REGISTER_SHAREHOLDER_SUCCESS": "Shareholder successfully added",
   "REGISTER_CURRENCY_SUCCESS": "Currency successfully added",
-  "PASSWORD_CHANGE_SUCCESS": "Password successfully changed"
+  "PASSWORD_CHANGE_SUCCESS": "Password successfully changed",
+  "SAME_PASSWORD_RESET": "You entered your current password"
 }
