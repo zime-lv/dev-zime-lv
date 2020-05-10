@@ -11,6 +11,8 @@
   "Wrong Personal ID format": "Personas kods sastāv no cipariem un defises (‑). Formāts: XXXXXX‑XXXXX",
   "PersonalID must be valid": "Personas kodam ir jābūt derīgam",
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
+  "yyyy-mm-dd": "yyyy.mm.dd.",
+  "Date Regex": "^((19|2[0-9])[0-9]{2}).(0[1-9]|1[012]).(0[1-9]|[12][0-9]|3[01]).?$",
   "Agree to terms and conditions": "Atzīmējot rūtiņu un noklikšķinot uz pogas, es piekrītu šādiem noteikumiem:",
   "Terms is required": "Lai atvērtu kontu, japiekrīt lietošanas noteikumiem.",
   "Submit": "Izveidot kontu un turpināt",
