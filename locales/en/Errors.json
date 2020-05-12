@@ -2,6 +2,7 @@
   "INVALID_SIGN_IN": "Wrong email address or password.",
   "INVALID_TRANSFER": "Transfer could not be executed.",
   "INVALID_USER_REGISTRATION": "An account with this email address is already registered.",
+  "INVALID_TAN": "Invalid TAN.",
   "TOKEN_VALIDATION_FAILED": "Something went wrong.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "An account with this personal ID address is already registered.",
   "USER_NOT_FOUND": "User not found.",
