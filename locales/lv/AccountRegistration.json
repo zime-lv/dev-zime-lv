@@ -8,7 +8,7 @@
   "Date of birth is required": "Jāievada dzimšanas datums.",
   "Date must be valid": "Datumam jābūt derīgam un tam jābeidzas ar punktu.",
   "Timezone at birth is required": "Jāievada laika josla.",
-  "Timezone at birth": "Laika josla dzimšanas brīdī",
+  "Timezone at birth": "Laika josla dzimšanas brīdī (Latvijā: 15 - Austrumeiropas laiks)",
   "Choose...": "Izvēlies ...",
   "Country": "Valsts",
   "Personal ID": "Personas kods",
