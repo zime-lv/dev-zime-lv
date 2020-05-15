@@ -6,7 +6,7 @@
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
   "Shareholder Roles": "Akcionāra lomas, atdalītas ar komatu",
   "Shares is required": "Akcijas ir obligāts lauks.",
-  "Shares too few": "Akciju skaitam jābūt lielākām vai vienādam ar 0.",
+  "Shares too few": "Akciju skaitam jābūt lielākām vai vienādam ar 1.",
   "Shares too many": "Akciju skaitam jābūt mazākam vai vienādam ar 1000.",
   "Shares must be a number": "Akcijām jābūt skaitlim.",
   "Shares": "Akciju skaits",

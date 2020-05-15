@@ -9,6 +9,9 @@
   "Purpose ID": "Product ID",
   "Purpose Description": "Product Description",
   "Purpose Shareholders": "Product Shareholders",
+  "Product Status": "Product Status",
+  "Not published": "Not published",
+  "Published": "Published",
   "No shareholders": "No shareholders",
   "Add Shareholder": "Add Shareholder"
 }
