@@ -8,6 +8,6 @@
   "USER_NOT_FOUND": "User not found.",
   "ACCOUNT_SUSPENDED": "Account is suspended",
   "ACCOUNT_DELETED": "Account is deleted",
-  "REQUEST_EXPIRED": "Connection error. Please reload the page and try again.",
+  "REQUEST_EXPIRED": "Slow connection. Please reload the page and try again.",
   "NO_RESPONSE_FROM_SERVER": "Something went wrong. We are working on it."
 }

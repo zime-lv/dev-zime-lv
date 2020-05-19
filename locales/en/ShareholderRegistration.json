@@ -1,6 +1,6 @@
 {
   "Shareholder Personal ID": "Personal ID number",
-  "XXXXXX-XXXXX": "XXXXXX-XXXXX",
+  "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
   "Personal ID is required": "Personal ID number is a required field.",
   "Wrong Personal ID format": "The personal ID consists of numbers and hyphens (-). Format: XXXXXX‑XXXXX",
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",

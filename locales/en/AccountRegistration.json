@@ -12,7 +12,7 @@
   "Choose...": "Choose...",
   "Country": "Country",
   "Personal ID": "Personal ID number",
-  "XXXXXX-XXXXX": "XXXXXX-XXXXX",
+  "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
   "Personal ID is required": "Personal ID number is a required field.",
   "Wrong Personal ID format": "The personal ID consists of numbers and hyphens (-). Format: XXXXXX‑XXXXX",
   "PersonalID must be valid": "Personal ID must be valid",

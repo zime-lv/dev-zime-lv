@@ -1,6 +1,6 @@
 {
   "Shareholder Personal ID": "Akcionāra personas kods",
-  "XXXXXX-XXXXX": "XXXXXX-XXXXX",
+  "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
   "Personal ID is required": "Jāievada personas kods.",
   "Wrong Personal ID format": "Personas kods sastāv no cipariem un defises (‑). Formāts: XXXXXX‑XXXXX",
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
