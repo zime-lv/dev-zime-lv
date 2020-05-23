@@ -1,0 +1,99 @@
+/* 
+* Start user theme 
+*/
+:root {
+  --light: #f8f9fa !important;
+  --white: #fff !important;
+  --dark: #6c757d !important;
+  --gray-dark: #343a40 !important;
+  --active: #f0f1f2 !important;
+  --disabled: #e9ecef !important;
+}
+
+body {
+  background: repeating-linear-gradient(
+    to right,
+    #f7f7f7,
+    #f7f7f7 10px,
+    #e8f6f3 10px,
+    #e8f6f3 20px
+  );
+}
+
+.btn-primary {
+  color: var(--light) !important;
+  background-color: var(--dark) !important;
+  border-color: var(--dark) !important;
+}
+
+.list-group-item {
+  color: var(--dark) !important;
+}
+
+.list-group-item.active {
+  background-color: var(--active) !important;
+  border-color: var(--active) !important;
+}
+
+a {
+  color: var(--dark) !important;
+}
+
+a.nav-link-2 {
+  color: var(--light) !important;
+}
+
+a:hover {
+  color: var(--dark) !important;
+}
+
+a.nav-link-2:hover {
+  color: var(--white) !important;
+}
+
+.bg {
+  /* Full height */
+  min-height: 100vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: var(--dark) !important;
+  border-color: var(--dark) !important;
+}
+
+.button-transparent {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: var(--dark) !important;
+  background-color: var(--dark) !important;
+}
+
+.custom-control-input:disabled ~ .custom-control-label:before,
+.custom-control-input[disabled] ~ .custom-control-label:before {
+  border-color: var(--disabled) !important;
+  background-color: var(--disabled) !important;
+}
+
+.link {
+  cursor: pointer;
+}
+
+/* 
+* End user theme 
+*/
