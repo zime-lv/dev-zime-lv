@@ -1,0 +1,15 @@
+{
+  "Sign In": "Sign In",
+  "Email address": "Email address",
+  "Enter email": "Enter email",
+  "Password": "Password",
+  "Enter password": "Enter password",
+  "Remember me": "Remember me",
+  "Submit": "Enter",
+  "Forgot password": "Forgot <1>password</1>?",
+  "Not yet registered": "Not yet <1>registered</1>?",
+  "Login": "Login",
+  "Email is required": "Email is required.",
+  "Invalid email address": "Email address must be valid.",
+  "No password provided": "No password provided."
+}
