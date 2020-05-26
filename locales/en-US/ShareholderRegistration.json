@@ -1,9 +1,9 @@
 {
-  "Shareholder Personal ID": "Personal ID number",
+  "Shareholder Personal ID": "Shareholder's account number",
   "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
-  "Personal ID is required": "Personal ID number is a required field.",
-  "Wrong Personal ID format": "The personal ID consists of numbers and hyphens (-). Format: XXXXXX‑XXXXX",
-  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
+  "Personal ID is required": "Account number is a required field.",
+  "Wrong Personal ID format": "The account number consists of letters and numbers. Format: UXXXXXXXXXXXXXX",
+  "Personal ID Regex": "^[a-zA-Z0-9]*$",
   "Shareholder Roles": "Shareholder roles, comma separated",
   "Shares is required": "Shares is a required field.",
   "Shares too few": "Shares must be greater than or equal to 1.",
