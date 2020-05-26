@@ -6,10 +6,10 @@
   "U2B": "Purchase",
   "From account": "From account",
   "To account": "To account",
-  "To Personal ID": "Recipients Personal ID",
+  "To Personal ID": "Recipients Account Number",
   "To Business ID": "Recipients Business ID",
   "To Purpose ID": "Purpose ID",
-  "Recipients Personal ID is required": "Recipients Personal ID is a required field.",
+  "Recipients Personal ID is required": "Recipients Account Number is a required field.",
   "Recipients Business ID is required": "Recipients Business ID is a required field.",
   "Purpose ID is required": "Purpose ID is a required field",
   "Description": "Description",
@@ -25,5 +25,5 @@
   "Submit": "Transfer",
   "Next": "Next",
   "Amount Regex": "^[0-9]{1,10}([.][0-9]{0,2})?$",
-  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$"
+  "Personal ID Regex": "^[a-zA-Z0-9]*$"
 }

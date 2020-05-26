@@ -1,9 +1,9 @@
 {
-  "Shareholder Personal ID": "Akcionāra personas kods",
+  "Shareholder Personal ID": "Akcionāra konta numurs",
   "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
-  "Personal ID is required": "Jāievada personas kods.",
-  "Wrong Personal ID format": "Personas kods sastāv no cipariem un defises (‑). Formāts: XXXXXX‑XXXXX",
-  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
+  "Personal ID is required": "Jāievada konta numurs.",
+  "Wrong Personal ID format": "Konta numurs sastāv no burtiem un cipariem. Formāts: UXXXXXXXXXXXXXX",
+  "Personal ID Regex": "^[a-zA-Z0-9]*$",
   "Shareholder Roles": "Akcionāra lomas, atdalītas ar komatu",
   "Shares is required": "Akcijas ir obligāts lauks.",
   "Shares too few": "Akciju skaitam jābūt lielākām vai vienādam ar 1.",

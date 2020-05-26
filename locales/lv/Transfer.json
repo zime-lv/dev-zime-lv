@@ -6,10 +6,10 @@
   "U2B": "Pirkums",
   "From account": "No konta",
   "To account": "Uz kontu",
-  "To Personal ID": "Saņēmēja personas kods",
+  "To Personal ID": "Saņēmēja konta numurs",
   "To Business ID": "Saņēmēja uzņēmuma kods",
   "To Purpose ID": "Preces/pakalpojuma kods",
-  "Recipients Personal ID is required": "Jāievada saņēmēja personas kods.",
+  "Recipients Personal ID is required": "Jāievada saņēmēja konta numurs.",
   "Recipients Business ID is required": "Jāievada saņēmēja uzņēmuma kods.",
   "Purpose ID is required": "Jāievada preces/pakalpojuma kods",
   "Description": "Komentārs",
@@ -25,5 +25,7 @@
   "Submit": "Pārskaitīt",
   "Next": "Turpināt",
   "Amount Regex": "^[0-9]{1,10}([,][0-9]{0,2})?$",
-  "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$"
+  "Personal ID Regex": "^[a-zA-Z0-9]*$",
+  "XXXXXX-XXXXX": "UXXXXXXXXXXXXXX",
+  "Wrong Personal ID format": "Nepareizs konta numura formāts"
 }
