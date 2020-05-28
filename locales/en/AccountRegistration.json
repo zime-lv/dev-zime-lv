@@ -19,7 +19,7 @@
   "Personal ID Regex": "^[0-9]{6}([-][0-9]{5})?$",
   "yyyy-mm-dd": "mm/dd/yyyy",
   "Date Regex": "^(1[0-2]|0[1-9])/(3[01]|[12][0-9]|0[1-9])/[0-9]{4}$",
-  "Agree to terms and conditions": "By ticking the box and clicking the button, I agree and consent to the terms of:",
+  "Agree to terms and conditions": "By clicking the button, I agree and consent to the terms of:",
   "Terms is required": "To open account you must agree to terms and conditions.",
   "Submit": "Create Account and Continue",
   "Account successfully registered": "Account successfully registered",
