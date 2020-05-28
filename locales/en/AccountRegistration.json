@@ -6,7 +6,7 @@
   "Photo ID is required": "Photo ID is a required field",
   "Date of birth": "Date of birth",
   "Date of birth is required": "Date of birth is a required field.",
-  "Date must be valid": "Date must be valid",
+  "Date must be valid": "Date must be in valid format: mm/dd/yyyy",
   "Timezone at birth is required": "Timezone at birth is a required field.",
   "Timezone at birth": "Timezone at birth",
   "Choose...": "Choose...",
