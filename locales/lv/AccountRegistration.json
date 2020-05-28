@@ -6,7 +6,7 @@
   "Photo ID is required": "Jāievada fotoattēls.",
   "Date of birth": "Dzimšanas datums",
   "Date of birth is required": "Jāievada dzimšanas datums.",
-  "Date must be valid": "Datumam jābūt derīgam un tam jābeidzas ar punktu.",
+  "Date must be valid": "Datumam jābūt formātā gggg.mm.dd. – tam jābeidzas ar punktu.",
   "Timezone at birth is required": "Jāievada laika josla.",
   "Timezone at birth": "Laika josla dzimšanas brīdī (Latvijā: 15 - Austrumeiropas laiks)",
   "Choose...": "Izvēlies ...",
