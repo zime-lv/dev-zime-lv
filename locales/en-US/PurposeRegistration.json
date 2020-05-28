@@ -1,9 +1,0 @@
-{
-  "Purpose Title": "Product Title",
-  "Purpose Description": "Product Description",
-  "Purpose title is a required field": "Product title is a required field.",
-  "Purpose title too short": "Product title must be at least 3 characters.",
-  "Purpose title too long": "Product title must be at most 70 characters.",
-  "Submit": "Add",
-  "Save": "Save"
-}

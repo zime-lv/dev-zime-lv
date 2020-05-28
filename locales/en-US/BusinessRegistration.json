@@ -1,9 +1,0 @@
-{
-  "Register business": "Register business",
-  "Business Title": "Business Title",
-  "Business Description": "Business Description",
-  "Submit": "Add",
-  "Business title is a required field": "Business title is a required field",
-  "Business title too short": "Business title must be at least 3 characters",
-  "Business title too long": "Business title must be at most 70 characters"
-}

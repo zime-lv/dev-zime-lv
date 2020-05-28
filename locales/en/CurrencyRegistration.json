@@ -4,5 +4,20 @@
   "Currency Name": "Currency name",
   "Currency Region": "Currency region",
   "Initial Exchange Rate": "Initial Exchange Rate",
-  "Submit": "Submit"
+  "Submit": "Submit",
+
+  "Currency abbreviation is required": "Currency abbreviation is a required field.",
+  "Currency abbreviation is too short": "Currency abbreviation is too short.",
+  "Currency abbreviation is too long": "Currency abbreviation is too long.",
+
+  "Currency name is required": "Currency name is a required field.",
+  "Currency name is too short": "Currency name is too short.",
+  "Currency name is too long": "Currency name is too long.",
+
+  "Currency region is required": "Currency region is a required field.",
+  "Currency region is too short": "Currency region is too short.",
+  "Currency region is too long": "Currency region is too long.",
+
+  "Exchange rate is required": "Exchange rate is a required field.",
+  "Wrong exchange rate format": "Wrong number format."
 }

@@ -4,5 +4,20 @@
   "Currency Name": "Valūtas nosaukums",
   "Currency Region": "Valūtas reģions",
   "Initial Exchange Rate": "Sākotnējais valūtas kurss",
-  "Submit": "Reģistrēt"
+  "Submit": "Reģistrēt",
+
+  "Currency abbreviation is required": "Valūtas saīsinājums ir obligāts lauks.",
+  "Currency abbreviation is too short": "Valūtas saīsinājums ir pārāk īss.",
+  "Currency abbreviation is too long": "Valūtas saīsinājums ir pārāk garš.",
+
+  "Currency name is required": "Valūtas nosaukums ir obligāts lauks.",
+  "Currency name is too short": "Valūtas nosaukums ir pārāk īss.",
+  "Currency name is too long": "Valūtas nosaukums ir pārāk garš.",
+
+  "Currency region is required": "Valūtas reģions ir obligāts lauks.",
+  "Currency region is too short": "Valūtas reģiona nosaukums ir pārāk īss.",
+  "Currency region is too long": "Valūtas reģiona nosaukums ir pārāk garš.",
+
+  "Exchange rate is required": "Valūtas maiņas kurss ir obligāts lauks.",
+  "Wrong exchange rate format": "Nepareizs skaitļa formāts."
 }
