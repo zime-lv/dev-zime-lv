@@ -4,7 +4,7 @@
   "INVALID_USER_REGISTRATION": "Konts ar šo e-pasta adresi jau ir reģistrēts.",
   "INVALID_TAN": "Nederīgs TAN numurs.",
   "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
-  "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo personas kodu jau ir reģistrēts.",
+  "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo numuru jau ir reģistrēts.",
   "USER_NOT_FOUND": "Lietotājs netika atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
   "ACCOUNT_DELETED": "Konts tika izdzēsts",

@@ -23,9 +23,9 @@
   "Terms is required": "Lai atvērtu kontu, japiekrīt lietošanas noteikumiem.",
   "Submit": "Izveidot kontu un turpināt",
   "Account successfully registered": "Konts veiksmīgi reģistrēts",
-  "Account with your personal ID successfully registered": "Konts ar personas kodu <1>{{accountNumber}}</1> ir veiksmīgi reģistrēts.",
+  "Account with your personal ID successfully registered": "Konts ar numuru <1>{{accountNumber}}</1> ir veiksmīgi reģistrēts.",
   "Account already registered": "Konts jau ir reģistrēts",
-  "Only one account per person is allowed": "Konts ar personas kodu <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts.",
+  "Only one account per person is allowed": "Konts ar numuru <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts.",
   "The User Agreement and the Privacy Policy": "<0/> <1>Lietošanas noteikumiem</1> un <2/> <3/> <4>Privātuma noteikumiem</4>.",
   "User Agreement": "Lietošanas noteikumi",
   "Privacy Policy": "Privātuma noteikumi"

@@ -4,7 +4,7 @@
   "INVALID_USER_REGISTRATION": "An account with this email address is already registered.",
   "INVALID_TAN": "Invalid TAN.",
   "TOKEN_VALIDATION_FAILED": "Something went wrong.",
-  "DUPLICATE_ACCOUNT_REGISTRATION": "An account with this personal ID address is already registered.",
+  "DUPLICATE_ACCOUNT_REGISTRATION": "An account with this number is already registered.",
   "USER_NOT_FOUND": "User not found.",
   "ACCOUNT_SUSPENDED": "Account is suspended",
   "ACCOUNT_DELETED": "Account is deleted",
