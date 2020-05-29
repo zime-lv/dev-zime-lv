@@ -6,7 +6,7 @@
   "Photo ID is required": "Jāievada fotoattēls.",
   "Date of birth": "Dzimšanas datums",
   "Date of birth is required": "Jāievada dzimšanas datums.",
-  "Date must be valid": "Datumam jābūt derīgā formātā: gggg.mm.dd. (beigās jabūt punktam)",
+  "Date must be valid": "Datumam jābūt derīgam.",
   "Timezone at birth is required": "Jāievada laika josla.",
   "Timezone at birth": "Laika josla dzimšanas brīdī (Latvijā: 15 - Austrumeiropas laiks)",
   "Choose...": "Izvēlies ...",
@@ -28,5 +28,8 @@
   "Only one account per person is allowed": "Konts ar numuru <1>{{accountNumber}}</1> jau ir reģistrēts. Katrai personai ir atļauts tikai viens konts.",
   "The User Agreement and the Privacy Policy": "<0/> <1>Lietošanas noteikumiem</1> un <2/> <3/> <4>Privātuma noteikumiem</4>.",
   "User Agreement": "Lietošanas noteikumi",
-  "Privacy Policy": "Privātuma noteikumi"
+  "Privacy Policy": "Privātuma noteikumi",
+  "Year": "Gads",
+  "Month": "Mēnesis",
+  "Day": "Diena"
 }

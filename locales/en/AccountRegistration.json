@@ -6,7 +6,7 @@
   "Photo ID is required": "Photo ID is a required field",
   "Date of birth": "Date of birth",
   "Date of birth is required": "Date of birth is a required field.",
-  "Date must be valid": "Date must be in valid format: mm/dd/yyyy",
+  "Date must be valid": "Date must be valid.",
   "Timezone at birth is required": "Timezone at birth is a required field.",
   "Timezone at birth": "Timezone at birth",
   "Choose...": "Choose...",
@@ -28,5 +28,8 @@
   "Only one account per person is allowed": "Account with the number <1>{{accountNumber}}</1> is already registered. Only one account per person is allowed.",
   "The User Agreement and the Privacy Policy": "<0/> the <1>User Agreement</1> and <2/> <3/> the <4>Privacy Policy</4>.",
   "User Agreement": "User Agreement",
-  "Privacy Policy": "Privacy Policy"
+  "Privacy Policy": "Privacy Policy",
+  "Year": "Year",
+  "Month": "Month",
+  "Day": "Day"
 }
