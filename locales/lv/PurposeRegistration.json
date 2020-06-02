@@ -1,9 +1,15 @@
 {
   "Purpose Title": "Produkta nosaukums",
   "Purpose Description": "Produkta apraksts",
+  "Purpose Category": "Produkta kategorija",
+  "Purpose Subcategory": "Produkta 1. apakškategorija",
+  "Purpose Subcategory 2": "Produkta 2. apakškategorija",
+  "Purpose Keywords": "Produkta atslēgvārdi",
   "Purpose title is a required field": "Produkta nosaukums ir obligāts lauks.",
   "Purpose title too short": "Produkta nosaukumam jābūt vismaz 3 rakstzīmēm.",
   "Purpose title too long": "Produkta nosaukumam jābūt ne vairāk kā 70 rakstzīmēm.",
+  "Purpose category is a required field": "Produkta kategorija ir obligāts lauks.",
+  "Purpose category too long": "Produkta kategorijai jābūt ne vairāk kā 70 rakstzīmēm.",
   "Submit": "Pievienot",
   "Save": "Saglabāt"
 }

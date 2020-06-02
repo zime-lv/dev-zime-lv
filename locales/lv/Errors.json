@@ -5,6 +5,7 @@
   "INVALID_TAN": "Nederīgs TAN numurs.",
   "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo numuru jau ir reģistrēts.",
+  "DUPLICATE_CURRENCY_REGISTRATION": "Valūta ir jau reģistrēta.",
   "USER_NOT_FOUND": "Lietotājs netika atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
   "ACCOUNT_DELETED": "Konts tika izdzēsts",

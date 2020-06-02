@@ -1,5 +1,5 @@
 {
-  "About": "Business",
+  "About": "Products:",
   "Add Business": "Add Business",
   "Add Purpose": "Add Product",
   "Business ID": "Business ID",
@@ -10,6 +10,10 @@
   "Purpose ID": "Product ID",
   "Purpose Title": "Product Title",
   "Purpose Description": "Product Description",
+  "Purpose Category": "Product Category",
+  "Purpose Subcategory": "Product Subcategory",
+  "Purpose Subcategory 2": "Product Subcategory 2",
+  "Purpose Keywords": "Product Keywords",
   "Purpose Shareholders": "Product Shareholders",
   "To publish, please add at least one shareholder": "To publish, please add at least one shareholder.",
   "Product Status": "Product Status",

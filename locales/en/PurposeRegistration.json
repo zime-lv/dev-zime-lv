@@ -1,9 +1,15 @@
 {
   "Purpose Title": "Product Title",
   "Purpose Description": "Product Description",
+  "Purpose Category": "Product Category",
+  "Purpose Subcategory": "Product Subcategory 1",
+  "Purpose Subcategory 2": "Product Subcategory 2",
+  "Purpose Keywords": "Product Keywords",
   "Purpose title is a required field": "Product title is a required field.",
   "Purpose title too short": "Product title must be at least 3 characters.",
   "Purpose title too long": "Product title must be at most 70 characters.",
+  "Purpose category is a required field": "Product category is a required field.",
+  "Purpose category too long": "Product category must be at most 70 characters.",
   "Submit": "Add",
   "Save": "Save"
 }

@@ -1,5 +1,5 @@
 {
-  "About": "Uzņēmums",
+  "About": "Produkti:",
   "Add Business": "Pievienot uzņēmumu",
   "Add Purpose": "Pievienot produktu",
   "Business ID": "B-numurs",
@@ -10,6 +10,10 @@
   "Purpose ID": "P-numurs",
   "Purpose Title": "Nosaukums",
   "Purpose Description": "Apraksts",
+  "Purpose Category": "Kategorija",
+  "Purpose Subcategory": "1. Apakškategorija",
+  "Purpose Subcategory 2": "2. Apakškategorija",
+  "Purpose Keywords": "Atslēgvārdi",
   "Purpose Shareholders": "Akcionāri",
   "To publish, please add at least one shareholder": "Lai publicētu, lūdzu, pievieno vismaz vienu akcionāru.",
   "Product Status": "Statuss",

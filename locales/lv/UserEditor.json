@@ -3,5 +3,6 @@
   "First name": "Vārds",
   "Last name": "Uzvārds",
   "Email address": "E-pasta adrese",
-  "Password": "Parole"
+  "Password": "Parole",
+  "Submit": "Saglabāt"
 }
