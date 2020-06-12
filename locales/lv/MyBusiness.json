@@ -19,6 +19,10 @@
   "Product Status": "Statuss",
   "Not published": "Nav publicēts",
   "Published": "Publicēts",
+  "No purposes": "",
   "No shareholders": "Nav akcionāru",
-  "Add Shareholder": "Pievienot akcionāru"
+  "No description": "Nav apraksta",
+  "Add Shareholder": "Pievienot akcionāru",
+  "Loading purposes...": "Ielādēju produktus...",
+  "Loading shareholders...": "Ielādēju akcionārus..."
 }

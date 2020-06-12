@@ -19,6 +19,10 @@
   "Product Status": "Product Status",
   "Not published": "Not published",
   "Published": "Published",
+  "No purposes": "",
   "No shareholders": "No shareholders",
-  "Add Shareholder": "Add Shareholder"
+  "No description": "No description",
+  "Add Shareholder": "Add Shareholder",
+  "Loading purposes...": "Loading products...",
+  "Loading shareholders...": "Loading shareholders..."
 }

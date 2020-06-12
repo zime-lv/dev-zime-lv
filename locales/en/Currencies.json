@@ -1,6 +1,7 @@
 {
   "Currency": "Currency",
-  "Name": "Name",
+  "Abbr": "Code",
   "Region": "Region",
-  "Rate": "Rate"
+  "Rate": "Rate",
+  "Loading...": "Loading currencies..."
 }

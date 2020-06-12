@@ -1,6 +1,7 @@
 {
   "Currency": "Valūta",
-  "Name": "Nosaukums",
+  "Abbr": "Kods",
   "Region": "Reģions",
-  "Rate": "Kurss"
+  "Rate": "Kurss",
+  "Loading...": "Ielādēju valūtas..."
 }

@@ -6,9 +6,9 @@
   "TOKEN_VALIDATION_FAILED": "Something went wrong.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "An account with this number is already registered.",
   "DUPLICATE_CURRENCY_REGISTRATION": "Currency is already registered.",
+  "DUPLICATE_PURPOSE_PROPERTY": "Product already registered.",
   "USER_NOT_FOUND": "User not found.",
   "ACCOUNT_SUSPENDED": "Account is suspended",
   "ACCOUNT_DELETED": "Account is deleted",
-  "REQUEST_EXPIRED": "Please reload the page",
   "NO_RESPONSE_FROM_SERVER": "Something went wrong. We are working on it."
 }

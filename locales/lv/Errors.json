@@ -6,9 +6,9 @@
   "TOKEN_VALIDATION_FAILED": "Kaut kas nogāja greizi.",
   "DUPLICATE_ACCOUNT_REGISTRATION": "Konts ar šo numuru jau ir reģistrēts.",
   "DUPLICATE_CURRENCY_REGISTRATION": "Valūta ir jau reģistrēta.",
+  "DUPLICATE_PURPOSE_PROPERTY": "Produkts ir jau reģistrēts.",
   "USER_NOT_FOUND": "Lietotājs netika atrasts.",
   "ACCOUNT_SUSPENDED": "Konta darbība ir apturēta",
   "ACCOUNT_DELETED": "Konts tika izdzēsts",
-  "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu",
   "NO_RESPONSE_FROM_SERVER": "Kaut kas nogāja greizi. Mēs strādājam pie tā."
 }

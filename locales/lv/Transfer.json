@@ -8,7 +8,7 @@
   "To account": "Uz kontu",
   "To Personal ID": "Saņēmēja konta numurs",
   "To Business ID": "Saņēmēja uzņēmuma kods",
-  "To Purpose ID": "Preces/pakalpojuma kods",
+  "To Purpose ID": "Produkta ID (P-numurs)",
   "Recipients Personal ID is required": "Jāievada saņēmēja konta numurs.",
   "Recipients Business ID is required": "Jāievada saņēmēja uzņēmuma kods.",
   "Purpose ID is required": "Jāievada preces/pakalpojuma kods",

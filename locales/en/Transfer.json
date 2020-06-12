@@ -8,7 +8,7 @@
   "To account": "To account",
   "To Personal ID": "Recipients Account Number",
   "To Business ID": "Recipients Business ID",
-  "To Purpose ID": "Purpose ID",
+  "To Purpose ID": "Product ID (P-Number)",
   "Recipients Personal ID is required": "Recipients Account Number is a required field.",
   "Recipients Business ID is required": "Recipients Business ID is a required field.",
   "Purpose ID is required": "Purpose ID is a required field",
