@@ -6,5 +6,11 @@
   "acc_cred": "kredīta konts",
   "acc_save": "krājkonts",
   "fromAccountToAccount": "{{t_from_account}} <2/> {{t_to_account}}",
-  "Loading...": "Ielādēju transakcijas..."
+  "Loading...": "Ielādēju transakcijas...",
+  "Find transactions...": "Meklēt transakcijas...",
+  "Advanced search": "Izvērstā meklēšana",
+  "Period of time": "Laika periods",
+  "Start date": "Sākuma datums",
+  "End date": "Beigu datums",
+  "Update": "Atjaunināt"
 }

@@ -10,5 +10,6 @@
   "SESSION_TIMED_OUT": "Drošības apsvērumu dēļ, sesijas derīguma termiņš ir beidzies.",
   "SEND_MESSAGE_SUCCESS": "Tava vestule tika nosūtīta.",
   "RECONNECTING": "Savienoju atkārtoti...",
-  "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu"
+  "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu",
+  "COPIED_TO_CLIPBOARD": "Kopēts starpliktuvē"
 }

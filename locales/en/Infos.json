@@ -10,5 +10,6 @@
   "SESSION_TIMED_OUT": "For security reasons session has expired",
   "SEND_MESSAGE_SUCCESS": "Message was successfully sent.",
   "RECONNECTING": "Reconnecting...",
-  "REQUEST_EXPIRED": "Please reload the page"
+  "REQUEST_EXPIRED": "Please reload the page",
+  "COPIED_TO_CLIPBOARD": "Copied to clipboard"
 }

@@ -6,5 +6,11 @@
   "acc_cred": "credit account",
   "acc_save": "savings account",
   "fromAccountToAccount": "From {{t_from_account}} to {{t_to_account}}",
-  "Loading...": "Loading transactions..."
+  "Loading...": "Loading transactions...",
+  "Find transactions...": "Find transactions...",
+  "Advanced search": "Advanced search",
+  "Period of time": "Period of time",
+  "Start date": "Start date",
+  "End date": "End date",
+  "Update": "Update"
 }
