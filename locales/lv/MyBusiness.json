@@ -16,7 +16,7 @@
   "Purpose Keywords": "Atslēgvārdi",
   "Purpose Shareholders": "Akcionāri",
   "To publish, please add at least one shareholder": "Lai publicētu, lūdzu, pievieno vismaz vienu akcionāru.",
-  "Product Status": "Statuss",
+  "Purpose Status": "Statuss",
   "Not published": "Nav publicēts",
   "Published": "Publicēts",
   "No purposes": "",
@@ -24,5 +24,6 @@
   "No description": "Nav apraksta",
   "Add Shareholder": "Pievienot akcionāru",
   "Loading purposes...": "Ielādēju produktus...",
-  "Loading shareholders...": "Ielādēju akcionārus..."
+  "Loading shareholders...": "Ielādēju akcionārus...",
+  "Find purposes...": "Meklēt produktu..."
 }

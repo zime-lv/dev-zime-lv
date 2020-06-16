@@ -16,7 +16,7 @@
   "Purpose Keywords": "Product Keywords",
   "Purpose Shareholders": "Product Shareholders",
   "To publish, please add at least one shareholder": "To publish, please add at least one shareholder.",
-  "Product Status": "Product Status",
+  "Purpose Status": "Product Status",
   "Not published": "Not published",
   "Published": "Published",
   "No purposes": "",
@@ -24,5 +24,6 @@
   "No description": "No description",
   "Add Shareholder": "Add Shareholder",
   "Loading purposes...": "Loading products...",
-  "Loading shareholders...": "Loading shareholders..."
+  "Loading shareholders...": "Loading shareholders...",
+  "Find purposes...": "Find products..."
 }
