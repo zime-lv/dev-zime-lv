@@ -1,11 +1,6 @@
 {
-  "Balance": "Atlikums",
   "Available": "Pieejams",
-  "Account number": "Konta numurs",
   "Current account": "Norēķinu konts",
   "Credit account": "Kredīta konts",
-  "Savings account": "Krājkonts",
-  "Transfer": "Pārskaitījums",
-  "Transactions": "Transakcijas",
-  "Shares": "Akcijas"
+  "Savings account": "Krājkonts"
 }

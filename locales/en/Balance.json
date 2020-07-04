@@ -1,11 +1,6 @@
 {
-  "Balance": "Balance",
   "Available": "Available",
-  "Account number": "Account number",
   "Current account": "Current account",
   "Credit account": "Credit account",
-  "Savings account": "Savings account",
-  "Transfer": "Transfer",
-  "Transactions": "Transactions",
-  "Shares": "Shares"
+  "Savings account": "Savings account"
 }

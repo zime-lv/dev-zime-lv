@@ -11,5 +11,7 @@
   "SEND_MESSAGE_SUCCESS": "Message was successfully sent.",
   "RECONNECTING": "Reconnecting...",
   "REQUEST_EXPIRED": "Please reload the page",
-  "COPIED_TO_CLIPBOARD": "Copied to clipboard"
+  "COPIED_TO_CLIPBOARD": "Copied to clipboard",
+  "EMAIL_NOT_YET_VALIDATED": "Email address not yet validated",
+  "EMAIL_VALIDATION_SUCCESS": "Email address successfully validated"
 }

@@ -1,5 +1,6 @@
 {
-  "See you soon": "Session has ended",
+  "See you soon": "You are logged out of your online account.",
+  "Security note": "<0>Security note:</0> For security reasons, it is recommended that you close the browser completely at the end of your visit to the Local Currency website (i.e. all browser windows or browser tabs) and then open it again if necessary to visit other websites. This note applies in particular if you do not use your Local Currency website at home, but on a public device or a device that is accessible to other people - for example in an internet cafe, in a hotel or at work.",
   "Logged out": "You are logged out of your online account.",
   "Your data is safe and secure": "Your data is safe and secure.",
   "Sign in": "To the main page"

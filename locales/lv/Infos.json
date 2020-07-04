@@ -11,5 +11,7 @@
   "SEND_MESSAGE_SUCCESS": "Tava vestule tika nosūtīta.",
   "RECONNECTING": "Savienoju atkārtoti...",
   "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu",
-  "COPIED_TO_CLIPBOARD": "Kopēts starpliktuvē"
+  "COPIED_TO_CLIPBOARD": "Kopēts starpliktuvē",
+  "EMAIL_NOT_YET_VALIDATED": "E-pasta adrese vēl nav apstiprināta.",
+  "EMAIL_VALIDATION_SUCCESS": "E-pasta adrese veiksīmgi apstiprināta."
 }

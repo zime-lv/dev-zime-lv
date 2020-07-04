@@ -1,0 +1,12 @@
+{
+  "Balance": "Account",
+  "Transfer": "Transfer",
+  "Business": "Business",
+  "Currency": "Currency",
+  "Sign in": "Sign in",
+  "Sign out": "Sign out",
+  "Register": "Register",
+  "Something went wrong": "Something went wrong",
+  "Logo": "Local Currency",
+  "Local Currency": "Local Currency"
+}
