@@ -1,0 +1,2 @@
+(this["webpackJsonplocal-currency-client"]=this["webpackJsonplocal-currency-client"]||[]).push([[22],{384:function(e,n,t){"use strict";t.r(n);var r=t(505),c=t(0),a=t.n(c);t(18),t(13);n.default=function(e){var n=Object.assign({namespace:"LeadsSignUp"},e);Object(r.a)(n.barrelGetters);n.barrelSetters.setRedirectTo;return a.a.createElement(a.a.Fragment,null)}},505:function(e,n,t){"use strict";function r(e){if(null==e)throw new TypeError("Cannot destructure undefined")}t.d(n,"a",(function(){return r}))}}]);
+//# sourceMappingURL=22.26dda139.chunk.js.map
