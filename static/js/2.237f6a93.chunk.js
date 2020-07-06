@@ -1,0 +1,2 @@
+(this["webpackJsonplocal-currency"]=this["webpackJsonplocal-currency"]||[]).push([[2],{377:function(e,t,r){"use strict";r.r(t);var n=r(513),a=r(0),c=r.n(a);r(15),r(13);t.default=function(e){var t=Object.assign({namespace:"Toasts"},e);Object(n.a)(t.barrelGetters);t.barrelSetters.setRedirectTo;return c.a.createElement("div",{className:"bd-masthead"})}},513:function(e,t,r){"use strict";function n(e){if(null==e)throw new TypeError("Cannot destructure undefined")}r.d(t,"a",(function(){return n}))}}]);
+//# sourceMappingURL=2.237f6a93.chunk.js.map
