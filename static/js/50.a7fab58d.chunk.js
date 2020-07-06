@@ -1,2 +1,0 @@
-(this["webpackJsonplocal-currency"]=this["webpackJsonplocal-currency"]||[]).push([[50],{417:function(n,e,a){"use strict";a.r(e);a(315);var c=a(0),t=a.n(c);e.default=function(n){Object.assign({namespace:"Loading"},n);return t.a.createElement(t.a.Fragment,null)}}}]);
-//# sourceMappingURL=50.a7fab58d.chunk.js.map

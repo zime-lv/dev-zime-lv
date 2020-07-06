@@ -1,14 +1,14 @@
 {
-  "short_name": "localcurrency",
-  "name": "Local Currency Trading Platform",
+  "short_name": "Local Currency",
+  "name": "Join the Local Currency Markets",
   "icons": [
     {
-      "src": "/gfx/favicon.ico",
+      "src": "./gfx/favicon.ico",
       "sizes": "32x32",
       "type": "image/x-icon"
     },
     {
-      "src": "/gfx/logo192.png",
+      "src": "./gfx/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
