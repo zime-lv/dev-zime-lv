@@ -1,0 +1,20 @@
+{
+  "short_name": "localcurrency",
+  "name": "Local Currency Trading Platform",
+  "icons": [
+    {
+      "src": "/gfx/favicon.ico",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/gfx/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
