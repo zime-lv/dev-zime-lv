@@ -1,2 +1,0 @@
-(this["webpackJsonplocal-currency-client"]=this["webpackJsonplocal-currency-client"]||[]).push([[56],{379:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c),r=n(166);t.default=function(){return a.a.createElement("div",null,a.a.createElement(r.b,{to:"/"},"Home"),a.a.createElement(r.b,{to:"/signin"},"Sign In"),a.a.createElement(r.b,{to:"/register"},"Register"),a.a.createElement(r.b,{to:"/about"},"About"))}}}]);
-//# sourceMappingURL=56.f8d2b73d.chunk.js.map
