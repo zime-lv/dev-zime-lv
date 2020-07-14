@@ -4,5 +4,6 @@
   "Subject is required": "Message subject is a required field.",
   "Message": "Message",
   "Enter message": "Enter your message",
-  "Submit": "Send"
+  "Submit": "Send",
+  "Normal": "Normal"
 }
