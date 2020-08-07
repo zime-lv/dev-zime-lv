@@ -1,1 +1,0 @@
-{"version":3,"sources":["components/lc-client-components.git/hooks/pre-commit.sample"],"names":["module","exports"],"mappings":"0HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/69.311de228.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/pre-commit.e4db8c12.sample\";"],"sourceRoot":""}

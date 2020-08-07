@@ -1,2 +1,0 @@
-(this["webpackJsonplocal-currency-client"]=this["webpackJsonplocal-currency-client"]||[]).push([[61],{574:function(c,e,n){c.exports=n.p+"static/media/HEAD.4cf2d64e.bin"}}]);
-//# sourceMappingURL=61.0abd66e2.chunk.js.map
