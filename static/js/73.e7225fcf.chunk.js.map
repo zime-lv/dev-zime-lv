@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/lc-client-components.git/hooks/prepare-commit-msg.sample"],"names":["module","exports"],"mappings":"0HAAAA,EAAOC,QAAU,IAA0B","file":"static/js/73.e7225fcf.chunk.js","sourcesContent":["module.exports = __webpack_public_path__ + \"static/media/prepare-commit-msg.2b5c047b.sample\";"],"sourceRoot":""}
