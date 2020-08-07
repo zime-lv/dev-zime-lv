@@ -13,5 +13,6 @@
   "REQUEST_EXPIRED": "Lūdzu, atkārtoti ielādē lapu",
   "COPIED_TO_CLIPBOARD": "Kopēts starpliktuvē",
   "EMAIL_NOT_YET_VALIDATED": "E-pasta adrese vēl nav apstiprināta.",
-  "EMAIL_VALIDATION_SUCCESS": "E-pasta adrese veiksīmgi apstiprināta."
+  "EMAIL_VALIDATION_SUCCESS": "E-pasta adrese veiksīmgi apstiprināta.",
+  "CATEGORY_NOT_SELECTED": "Lūdzu izvēlies kategoriju"
 }

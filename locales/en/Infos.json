@@ -13,5 +13,6 @@
   "REQUEST_EXPIRED": "Please reload the page",
   "COPIED_TO_CLIPBOARD": "Copied to clipboard",
   "EMAIL_NOT_YET_VALIDATED": "Email address not yet validated",
-  "EMAIL_VALIDATION_SUCCESS": "Email address successfully validated"
+  "EMAIL_VALIDATION_SUCCESS": "Email address successfully validated",
+  "CATEGORY_NOT_SELECTED": "Please select a category"
 }
